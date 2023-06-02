@@ -2,7 +2,7 @@
 name = "hbc"
 version = "0.1.0"
 edition = "2021"
-description = ""
+description = "Random program that does random stuff"
 license = "GPL-3.0"
 keywords = []
 
